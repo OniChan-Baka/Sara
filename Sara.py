@@ -1,4 +1,3 @@
-# imports
 import requests
 from Key import info
 import pyttsx3
@@ -61,7 +60,7 @@ def main():
     speak("Sara v1 is activated")
     while True:
         # Get the recognized speech and send it to the API
-        # Then speak the response from the hello API
+        # Then speak the response from the API
         output = speech()
         if output is not None:
             response = req(output)
