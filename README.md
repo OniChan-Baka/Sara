@@ -8,7 +8,7 @@ first you have to a a Key.py file in your directory as Sara.py after adding that
 https://www.brainshop.ai
 then create your brain go to its settings copy the "API URL:"
 go to the Key.py file you created earlier and paste this:
-"""info = {
+info = {
 "API URL": "[api key]"
-}"""
+}
 then just run the sara.py file
