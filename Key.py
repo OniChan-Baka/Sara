@@ -1,6 +1,7 @@
 info = {
     "Title": "Sara",
     "Plan": "Free",
+
     "Semantic engine": True,
     "Default cells": True,
     "Application": "Robot",
