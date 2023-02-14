@@ -5,7 +5,7 @@ the api i am using is BrainShop.ai its a free api its not the best but i will tr
 Usage:
 
 first you have to a a Key.py file in your directory as Sara.py after adding that you have to go to
-https://www.brainshop.ai
+https://brainshop.ai
 then create your brain go to its settings copy the "API URL:"
 go to the Key.py file you created earlier and paste this:
 info = {
